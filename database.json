@@ -62,7 +62,20 @@
         "phone": "212-555-1212"
     }
   ],
-  "employees": [],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Justin Case"
+    },
+  {
+    "id": 2,
+    "name": "Irma Gawd"
+  },
+  {
+  "id": 3,
+  "name": "Paige Turner"
+  }
+  ],
   "locations": [
       {
           "id": 1,
