@@ -40,22 +40,26 @@
       {
           "id": 1,
           "name": "Sydney Noh",
-          "address": "976 Software School Rd."
+          "address": "976 Software School Rd.",
+          "phone": "615-123-4567"
       },
       {
           "id": 2,
           "name": "Trevor Guinn",
-          "address": "123 NSS Ln"
+          "address": "123 NSS Ln",
+          "phone": "615-987-6543"
       },
       {
         "id": 3,
         "name": "Michelle Caner",
-        "address": "333 Witch Way"
+        "address": "333 Witch Way",
+        "phone": "718-333-9999"
     },
     {
         "id": 4,
         "name": "Joe Schmoe",
-        "address": "1212 Count Court"
+        "address": "1212 Count Court",
+        "phone": "212-555-1212"
     }
   ],
   "employees": [],
