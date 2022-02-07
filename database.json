@@ -14,22 +14,15 @@
           "customerId": 2,
           "locationId": 1
       },
-      {
-        "id": 3,
-        "name": "Princess Kitty",
-        "breed": "Cat",
-        "customerId": 3,
-        "locationId": 1
-    },
     {
-        "id": 4,
+        "id": 3,
         "name": "Milo",
         "breed": "Pomeranian",
         "customerId": 3,
         "locationId": 1
     },
     {
-      "id": 5,
+      "id": 4,
       "name": "Rex",
       "breed": "Mutt",
       "customerId": 4,
