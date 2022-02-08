@@ -1,62 +1,58 @@
 {
   "animals": [
-      {
-          "id": 1,
-          "name": "Doodles",
-          "breed": "Poodle",
-          "customerId": 1,
-          "locationId": 2
-      },
-      {
-          "id": 2,
-          "name": "Fido",
-          "breed": "Beagle",
-          "customerId": 2,
-          "locationId": 1
-      },
     {
-        "id": 3,
-        "name": "Milo",
-        "breed": "Pomeranian",
-        "customerId": 3,
-        "locationId": 1
+      "id": 1,
+      "name": "Doodles",
+      "breed": "Poodle",
+      "customerId": 1,
+      "locationId": 1
+    },
+    {
+      "id": 2,
+      "name": "Fido",
+      "breed": "Beagle",
+      "customerId": 2,
+      "locationId": 2
+    },
+    {
+      "id": 3,
+      "name": "Milo",
+      "breed": "Pomeranian",
+      "customerId": 3,
+      "locationId": 2
     },
     {
       "id": 4,
       "name": "Rex",
       "breed": "Mutt",
       "customerId": 4,
-      "locationId": 2
-  }
+      "locationId": 1
+    }
   ],
   "customers": [
-      {
-          "id": 1,
-          "name": "Sydney Noh",
-          "address": "976 Software School Rd.",
-          "phone": "615-123-4567",
-          "animalId": 1
-      },
-      {
-          "id": 2,
-          "name": "Trevor Guinn",
-          "address": "123 NSS Ln",
-          "phone": "615-987-6543",
-          "animalId": 2
-      },
-      {
-        "id": 3,
-        "name": "Michelle Caner",
-        "address": "333 Witch Way",
-        "phone": "718-333-9999",
-        "animalId": 3
+    {
+      "id": 1,
+      "name": "Sydney Noh",
+      "address": "987 Peanut Drive",
+      "phone": "615-987-6543"
     },
     {
-        "id": 4,
-        "name": "Joe Schmoe",
-        "address": "1212 Count Court",
-        "phone": "212-555-1212",
-        "animalId": 4
+      "id": 2,
+      "name": "Trevor Guinn",
+      "address": "123 NSS Lane",
+      "phone": "615-987-6543"
+    },
+    {
+      "id": 3,
+      "name": "Michelle Caner",
+      "address": "333 Witch Way",
+      "phone": "718-333-9999"
+    },
+    {
+      "id": 4,
+      "name": "Joe Schmoe",
+      "address": "1212 Count Court",
+      "phone": "212-555-1212"
     }
   ],
   "employees": [
@@ -64,25 +60,25 @@
       "id": 1,
       "name": "Justin Case"
     },
-  {
-    "id": 2,
-    "name": "Irma Gawd"
-  },
-  {
-  "id": 3,
-  "name": "Paige Turner"
-  }
+    {
+      "id": 2,
+      "name": "Irma Gawd"
+    },
+    {
+      "id": 3,
+      "name": "Paige Turner"
+    }
   ],
   "locations": [
-      {
-          "id": 1,
-          "name": "Nashville North",
-          "address": "8422 Johnson Pike"
-      },
-      {
-          "id": 2,
-          "name": "Nashville South",
-          "address": "209 Emory Drive"
-      }
+    {
+      "id": 1,
+      "name": "Nashville North",
+      "address": "500 Puppy Way"
+    },
+    {
+      "id": 2,
+      "name": "Nashville South",
+      "address": "209 Emory Drive"
+    }
   ]
 }
