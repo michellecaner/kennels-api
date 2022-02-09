@@ -5,34 +5,51 @@
       "name": "Doodles",
       "breed": "Poodle",
       "customerId": 1,
+<<<<<<< HEAD
       "locationId": 2
+=======
+      "locationId": 1
+>>>>>>> 23ef28caf50922ecd0b7e9ed332d02c660b366e2
     },
     {
       "id": 2,
       "name": "Fido",
       "breed": "Beagle",
       "customerId": 2,
+<<<<<<< HEAD
       "locationId": 1
+=======
+      "locationId": 2
+>>>>>>> 23ef28caf50922ecd0b7e9ed332d02c660b366e2
     },
     {
       "id": 3,
       "name": "Milo",
       "breed": "Pomeranian",
       "customerId": 3,
+<<<<<<< HEAD
       "locationId": 1
+=======
+      "locationId": 2
+>>>>>>> 23ef28caf50922ecd0b7e9ed332d02c660b366e2
     },
     {
       "id": 4,
       "name": "Rex",
       "breed": "Mutt",
       "customerId": 4,
+<<<<<<< HEAD
       "locationId": 2
+=======
+      "locationId": 1
+>>>>>>> 23ef28caf50922ecd0b7e9ed332d02c660b366e2
     }
   ],
   "customers": [
     {
       "id": 1,
       "name": "Sydney Noh",
+<<<<<<< HEAD
       "address": "976 Software School Rd.",
       "phone": "615-123-4567"
     },
@@ -47,12 +64,37 @@
       "name": "Michelle Caner",
       "address": "333 Witch Way",
       "phone": "718-333-9999"
+=======
+      "address": "987 Peanut Drive",
+      "phone": "615-987-6543",
+      "animalId": 1
+
+    },
+    {
+      "id": 2,
+      "name": "Trevor Guinn",
+      "address": "123 NSS Lane",
+      "phone": "615-987-6543",
+      "animalId": 2
+    },
+    {
+      "id": 3,
+      "name": "Michelle Caner",
+      "address": "333 Witch Way",
+      "phone": "718-333-9999",
+      "animalId": 3
+>>>>>>> 23ef28caf50922ecd0b7e9ed332d02c660b366e2
     },
     {
       "id": 4,
       "name": "Joe Schmoe",
       "address": "1212 Count Court",
+<<<<<<< HEAD
       "phone": "212-555-1212"
+=======
+      "phone": "212-555-1212",
+      "animalId": 4
+>>>>>>> 23ef28caf50922ecd0b7e9ed332d02c660b366e2
     }
   ],
   "employees": [
@@ -73,7 +115,11 @@
     {
       "id": 1,
       "name": "Nashville North",
+<<<<<<< HEAD
       "address": "8422 Johnson Pike"
+=======
+      "address": "500 Puppy Way"
+>>>>>>> 23ef28caf50922ecd0b7e9ed332d02c660b366e2
     },
     {
       "id": 2,
