@@ -27,6 +27,13 @@
       "breed": "Mutt",
       "customerId": 4,
       "locationId": 2
+    },
+    {
+      "name": "Luna",
+      "breed": "Corgi",
+      "locationId": 2,
+      "customerId": 3,
+      "id": 5
     }
   ],
   "customers": [
@@ -36,7 +43,6 @@
       "address": "987 Peanut Drive",
       "phone": "615-987-6543",
       "animalId": 1
-
     },
     {
       "id": 2,
