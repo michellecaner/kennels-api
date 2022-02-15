@@ -42,6 +42,7 @@
       "name": "Sydney Noh",
       "address": "987 Peanut Drive",
       "phone": "615-987-6543",
+      "email": "syd@noh.com",
       "animalId": 1
     },
     {
@@ -49,6 +50,7 @@
       "name": "Trevor Guinn",
       "address": "123 NSS Lane",
       "phone": "615-987-6543",
+      "email": "trevor@guinn.com",
       "animalId": 2
     },
     {
@@ -56,6 +58,7 @@
       "name": "Michelle Caner",
       "address": "333 Witch Way",
       "phone": "718-333-9999",
+      "email": "michelle@caner.com",
       "animalId": 3
     },
     {
@@ -63,6 +66,7 @@
       "name": "Joe Schmoe",
       "address": "1212 Count Court",
       "phone": "212-555-1212",
+      "email": "joe@schmoe.com",
       "animalId": 4
     }
   ],
